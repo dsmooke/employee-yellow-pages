@@ -12,9 +12,9 @@ An employee directory application that allows users to sort employees by a categ
 
 This is the nineteenth assignment from the UConn Coding Boot Camp curriculum.
 
-View the deployed application [here](heroku/link)
+View the deployed application [here](https://dsmooke.github.io/employee-yellow-pages/)
 
-!(main-demo)["demo-img.png"]
+![main-demo](public/imgs/react-demo.png)
 
 # Table of Contents
 
@@ -26,8 +26,7 @@ View the deployed application [here](heroku/link)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
-- [](#)
-- [Developer](#developer)
+- [Bugs](#bugs)
 - [Credits](#credits)
 - [Contact](#contact)
 - [License](#license)
@@ -112,6 +111,14 @@ THEN a table of employees should render.
 ```
 
 ## Installation
+
+- Clone repo and install packages. Edit scripts within package.json file. `npm start` to run in integrated terminal, run in browser with localhost:3000.
+
+### Bugs
+
+As of March 23, 2021: doesn't filter users, nor does it sort by age. handleInputChange has issues. Refer to inline bookmarks denoted by @ audit-issue. Not deployed with GitHub pages because it appeared to delete the contents of my main branch.
+
+Personal note: burnt out, need to buy books that introduce React in a step-by-step fashion instead of cross-referencing blog posts and Google.
 
 ## Credits
 
