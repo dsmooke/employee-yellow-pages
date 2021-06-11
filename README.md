@@ -10,8 +10,6 @@
 
 An employee directory application that allows users to sort employees by a category with the use of React.
 
-This is the nineteenth assignment from the UConn Coding Boot Camp curriculum.
-
 View the deployed application [here](https://dsmooke.github.io/employee-yellow-pages/)
 
 ![main-demo](public/imgs/react-demo.png)
